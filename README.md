@@ -1,9 +1,8 @@
 <h2 align="center">Merhaba Dostum 👋</h2>
 
+17 Yaşında kendi çabaları ile birşeyler yapmaya çalışan biriyim.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antiperes&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%90" height="150px" alt="stats" />
-</p>
+
 
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=Antiperes&show_icons=true&theme=tokyonight" width = "%90" height = "150px" />
