@@ -3,43 +3,19 @@
 <h3 align= "strong">17 Yaşında kendi çabaları ile birşeyler yapmaya çalışan biriyim.</h3>
 
 ```js
-class schutzstaffel{
-  constructor(...options) {
-    this.height = "1.77"
-    this.weight = "80"
-    this.type = "human"
-    this.job = "student"
-    this.sex = "male"
-  }
+class qPw {
+    constructor(options) {
+        this.name = "abdullah",
+        this.job = "student",
+        this.length = "177",
+        this.type = "human",
+        this.sex = "man",
+        this.weight = "86",
+        this.age = "18"
+    };
 }
 
-class CreateMan extends qpw {
-  constructor(...options) {
-    super(options);
-  }
-  
-  private _eating() {
-    void "eating 🍔 🍟 🍗 🥤"
-  }
-  
-  private _coding() {
-    void "coding... ❤️"
-  }
-  
-  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
-  
-  async createDay() {
-    this._eating()
-    this._coding()
-    await this._sleep(18000000)
-    
-    this.createDay()
-  }
-  
-}
-
-let qpw = new CreateMan()
-qpw.createDay();
+module.exports = qPw
 ```
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/492702255368110091
 )](https://discord.com/users/492702255368110091)
