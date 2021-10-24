@@ -2,7 +2,7 @@
 
 <h3 align= "strong">17 Yaşında kendi çabaları ile birşeyler yapmaya çalışan biriyim.</h3>
 
-
+```js
 class schutzstaffel{
   constructor(...options) {
     this.height = "1.77"
@@ -40,7 +40,7 @@ class CreateMan extends qpw {
 
 let qpw = new CreateMan()
 qpw.createDay();
-
+```
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
