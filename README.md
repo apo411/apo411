@@ -1,6 +1,5 @@
 <h2 align="center">Merhaba Dostum 👋</h2>
 
-<h3 align= "strong">17 Yaşında kendi çabaları ile birşeyler yapmaya çalışan biriyim.</h3>
 
 ```js
 class qPw {
