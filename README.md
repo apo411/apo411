@@ -3,7 +3,7 @@
 
 
 
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/492702255368110091?theme=light&bg=1c1c1c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/492702255368110091)
+
 
 ```js
 class qPw {
