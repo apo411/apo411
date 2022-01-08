@@ -1,4 +1,6 @@
-<h2 align="center">Merhaba Dostum 👋<img src="https://komarev.com/ghpvc/?username=qPwcikk&color=blue"/></h2>
+<h2 align="center">Merhaba Dostum 👋</h2>
+<br>
+<img src="https://komarev.com/ghpvc/?username=qPwcikk&color=blue"/>
 
 
 
@@ -22,7 +24,6 @@ module.exports = qPw
 ```
 
 
-![[Discord Presence](https://lanyard.cnrad.dev/api/:492702255368110091)](https://discord.com/users/:492702255368110091)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
