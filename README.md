@@ -1,4 +1,6 @@
 <h2 align="center">Merhaba Dostum 👋</h2>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 
 ```js
