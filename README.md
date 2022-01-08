@@ -22,7 +22,7 @@ module.exports = qPw
 ```
 
 
-
+![[Discord Presence](https://lanyard.cnrad.dev/api/:492702255368110091)](https://discord.com/users/:492702255368110091)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -39,6 +39,5 @@ module.exports = qPw
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:492702255368110091)](https://discord.com/users/:492702255368110091)
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=qPwcikk&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qPwcikk&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
