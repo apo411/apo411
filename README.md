@@ -30,3 +30,14 @@ module.exports = qPw
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 </br>
 <p align="center">Şu anda sadece kendimi geliştirme aşamasındayım hedefim full stack bir web developer olmak...</p>
+
+
+
+
+
+
+
+
+
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Github_Kullanıcı_Adınız&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qPwcikk&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
