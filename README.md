@@ -45,4 +45,5 @@ module.exports = qPw
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?qPwcikk=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?qPwcikk=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
