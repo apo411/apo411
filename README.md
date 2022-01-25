@@ -1,8 +1,7 @@
 <h2 align="center">Hello I'm qPw 👋</h2>
 <br>
 <img src="https://komarev.com/ghpvc/?username=qPwcikk&color=blue"/>
-
- <img src="https://count.getloli.com/get/@qPwcikk?theme=moebooru"width="%100" height="150px"/>
+<img src="https://count.getloli.com/get/@qPwcikk?theme=moebooru"width="%100" height="150px"/>
 
 
 
