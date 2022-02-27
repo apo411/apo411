@@ -24,7 +24,7 @@ module.exports = qPw
 ```
 <h1 style="color: #ffa90a">🛠  Software Languages</h1>
 <br>
-<p>"JavaScript" , "HTML" , "CSS" , "Bootstrap" , "Flutter" , "Dart"</p>
+<p>"JavaScript" ,"JQuery ", "HTML" , "CSS" , "Bootstrap" , "Flutter" , "Dart"</p>
 
 </br>
 </br>
