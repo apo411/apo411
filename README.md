@@ -26,7 +26,7 @@ module.exports = qPw
 <br>
 <p>"JavaScript" ,"JQuery ", "HTML" , "CSS" , "Bootstrap","Node.js"</p>
 <h3 style="color: #ffa90a">🛠  Öğrenime Devam Ettiğim Diller</h1>
-<p>"JavaScript", "Node.js","Siber güvenlik alanında öğrenim görüyorum('Linux, KaliLinux')</p>
+<p>"JavaScript", "Node.js"</p>
 
 </br>
 </br>
