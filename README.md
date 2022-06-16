@@ -7,20 +7,24 @@
 
 
 
-```js
-class qPw {
-    constructor(options) {
-        this.name = "abdullah",
-        this.job = "student",
-        this.length = "177",
-        this.type = "human",
-        this.sex = "man",
-        this.weight = "86",
-        this.age = "18"
-    };
+```go
+package main
+
+import "fmt"
+
+func apo(){
+    var Name string = "Abdullah"
+    var Job string = "student"
+    var length int = 177
+    var type string = "human"
+    var Sex string = "man"
+    var Weight int = 86
+    var Age int = 18
+
+    fmt.Println(Name,Job,length,type,Sex,Weight,Weight,Age)
+
 }
 
-module.exports = qPw
 ```
 <h1 style="color: #ffa90a">🛠  Software Languages</h1>
 <br>
