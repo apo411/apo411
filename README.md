@@ -16,13 +16,16 @@ func apo(){
     var Name string = "Abdullah"
     var Job string = "student"
     var length int = 177
-    var type string = "human"
     var Sex string = "man"
     var Weight int = 86
     var Age int = 18
 
-    fmt.Println(Name,Job,length,type,Sex,Weight,Weight,Age)
-
+    fmt.Println("My name" Name)
+    fmt.Println("My job" Job)
+    fmt.Println("My length" length)
+    fmt.Println("My sex" Sex)
+    fmt.Println("My weight" Weight)
+    fmt.Println("My age" Age)
 }
 
 ```
