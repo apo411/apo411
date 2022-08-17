@@ -15,16 +15,12 @@ import "fmt"
 func apo(){
     var Name string = "Abdullah"
     var Job string = "student"
-    var length int = 177
     var Sex string = "man"
-    var Weight int = 86
     var Age int = 18
 
     fmt.Println("My name" Name)
     fmt.Println("My job" Job)
-    fmt.Println("My length" length)
     fmt.Println("My sex" Sex)
-    fmt.Println("My weight" Weight)
     fmt.Println("My age" Age)
 }
 
@@ -33,7 +29,7 @@ func apo(){
 <br>
 <p>"JavaScript" ,"JQuery ", "HTML" , "CSS" , "Bootstrap"</p>
 <h3 style="color: #ffa90a">🛠  Öğrenime Devam Ettiğim Diller</h1>
-<p>"JavaScript", "Go"</p>
+<p>"JavaScript", "Go","Flutter"</p>
 
 </br>
 </br>
