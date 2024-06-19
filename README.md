@@ -14,9 +14,9 @@ import "fmt"
 
 func apo(){
     var Name string = "Abdullah"
-    var Job string = "student"
+    var Job string = "self-employment"
     var Sex string = "man"
-    var Age int = 18
+    var Age int = 20
 
     fmt.Println("My name" Name)
     fmt.Println("My job" Job)
